@@ -24,17 +24,11 @@ PRODUCT_PACKAGES := \
     libdrmframework \
     libdrmframework_jni \
     libfwdlockengine \
-    VideoEditor \
     WAPPushManager
 
 PRODUCT_PACKAGES += \
-    Galaxy4 \
-    HoloSpiralWallpaper \
     LiveWallpapers \
     LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    NoiseField \
-    PhaseBeam \
     VisualizationWallpapers
 
 PRODUCT_PACKAGES += \
